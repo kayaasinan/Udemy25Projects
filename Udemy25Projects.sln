@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ogrenci_Etut_Plan", "Ogrenc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passaparola Oyunu", "Passaparola Oyunu\Passaparola Oyunu\Passaparola Oyunu.csproj", "{EB1183A1-B835-4939-9317-BEA509647209}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pastane_Maliyet_Sistemi", "Pastane_Maliyet_Sistemi\Pastane_Maliyet_Sistemi\Pastane_Maliyet_Sistemi.csproj", "{1D379D71-DAA3-4404-BC16-450CA3694852}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{EB1183A1-B835-4939-9317-BEA509647209}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB1183A1-B835-4939-9317-BEA509647209}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB1183A1-B835-4939-9317-BEA509647209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D379D71-DAA3-4404-BC16-450CA3694852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D379D71-DAA3-4404-BC16-450CA3694852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D379D71-DAA3-4404-BC16-450CA3694852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D379D71-DAA3-4404-BC16-450CA3694852}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
