@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secim_Istatistik", "Secim_Istatistik\Secim_Istatistik.csproj", "{06203560-9C75-44E8-9F7A-7F1995C0C4E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06203560-9C75-44E8-9F7A-7F1995C0C4E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06203560-9C75-44E8-9F7A-7F1995C0C4E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06203560-9C75-44E8-9F7A-7F1995C0C4E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06203560-9C75-44E8-9F7A-7F1995C0C4E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1AE5687-F246-4308-B833-1F0CFE684B82}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSS_Haber_Oku", "RSS_Haber_Oku\RSS_Haber_Oku.csproj", "{F7E01E8F-A95E-441C-9D93-1A584F7A45D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7E01E8F-A95E-441C-9D93-1A584F7A45D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E01E8F-A95E-441C-9D93-1A584F7A45D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E01E8F-A95E-441C-9D93-1A584F7A45D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E01E8F-A95E-441C-9D93-1A584F7A45D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5909332-5816-42F4-BD15-BA3DAA449BCC}
+	EndGlobalSection
+EndGlobal
